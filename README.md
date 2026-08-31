@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Taiwan-🇹🇼-4A5568?style=for-the-badge" alt="Taiwan" />
   <img src="https://img.shields.io/badge/Open%20to-Remote-2EA043?style=for-the-badge" alt="Open to Remote" />
   <a href="mailto:nzh.xuu@gmail.com"><img src="https://img.shields.io/badge/Email-nzh.xuu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://nightnzh.github.io"><img src="https://img.shields.io/badge/Website-nightnzh.github.io-2F3FD4?style=for-the-badge" alt="Website" /></a>
   <a href="README.zh-TW.md"><img src="https://img.shields.io/badge/繁體中文-README-0969DA?style=for-the-badge" alt="繁體中文" /></a>
 </p>
 
@@ -122,11 +123,12 @@ I build and maintain the core Android product line for **self-service ordering k
 <a href="https://github.com/Nightnzh">
   <img src="https://img.shields.io/badge/GitHub-Nightnzh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- TODO: LinkedIn URL 到手後取消註解
-<a href="https://linkedin.com/in/YOUR-HANDLE">
+<a href="https://www.linkedin.com/in/%E8%A8%BC%E7%9A%93-%E8%A8%B1-b586ab238/">
   <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Hsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
--->
+<a href="https://nightnzh.github.io">
+  <img src="https://img.shields.io/badge/Website-nightnzh.github.io-2F3FD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 
 <br/><br/>
 
