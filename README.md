@@ -95,16 +95,6 @@ I build and maintain the core Android product line for **self-service ordering k
 | **Android Engineer** | Restaurant POS systems — kiosks, staff terminals, pickup lockers | 2022 – Present |
 | **Android Engineer** | Manufacturing group — internal apps and SDK modules | 2020 – 2021 |
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECT                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Project
-
-**[my_skills](https://github.com/Nightnzh/my_skills)** — A versioned monorepo of agent skills with schema validation, generated docs, and CI. Python · MIT · bilingual.
-
 *Most of my production work lives in private repositories. Happy to walk through architecture and trade-offs in a conversation.*
 
 ---
